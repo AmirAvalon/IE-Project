@@ -131,14 +131,10 @@ dmypy.json
 .idea
 /venv/
 
-# My images
-/images/
-
 # My database file
+database.db
 database.sqlite
 
 # My config
 config/config.ini
-
-# My task file
-tasks
+config/config_template.ini
