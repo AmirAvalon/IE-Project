@@ -130,10 +130,3 @@ dmypy.json
 # IDE files
 .idea
 /venv/
-
-# My database file
-database.db
-database.sqlite
-
-# My config
-config/config.ini
