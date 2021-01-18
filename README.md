@@ -7,6 +7,6 @@ Telegram Book Store Bot
 - get a token for your bot from https://t.me/BotFather and write it in config/config.ini
 
 ## How to work with database
-- [for see database.db file, import in to : ](https://sqliteonline.com/)
+- for see database.db file, import in to : https://sqliteonline.com
 - for first run, you should ignore `database.db`
 
