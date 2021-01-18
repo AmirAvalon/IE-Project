@@ -376,7 +376,7 @@ def callback_data_pre_order(bot, call):
         set_making_order_status_to_user(call.message.chat.id, 0) 
         send_to_operators(bot, call.message)
         bot.send_message(call.message.chat.id,
-                         inscriptions.order_true)#.format(max(get_orders_ids_by_id(357677914))[0]))
+                         inscriptions.order_true)
         set_making_order_status_to_user(call.message.chat.id, 0)
         callback_clear_cart(call)
         
